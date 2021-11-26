@@ -145,3 +145,13 @@ p {
 .follower span {
   margin-left: 16px;
 }
+
+.about-author img {
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+}
+
+.about-author span{
+  margin-left: 16px;  
+}
